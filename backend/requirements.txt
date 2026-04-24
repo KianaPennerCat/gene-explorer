@@ -1,0 +1,4 @@
+requests
+biopython
+flask
+flask-cors
