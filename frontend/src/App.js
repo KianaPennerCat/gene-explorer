@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const API = "http://localhost:5001/api";
+const API = "https://gene-explorer-production.up.railway.app/api";
 
 const GENES = ["BRCA1", "TP53", "EGFR", "FLT3", "KRAS"];
 
